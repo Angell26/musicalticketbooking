@@ -38,7 +38,7 @@ A **Java-based** Musical Ticket Booking Application developed using **Swing GUI 
 
 ### **1. Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/musical-ticket-booking.git
+ git clone https://github.com/Angell26/musical-ticket-booking.git
  cd musical-ticket-booking
 ```
 
