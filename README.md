@@ -1,4 +1,6 @@
 # 🎭 Musical Ticket Booking App
+![Image](https://github.com/user-attachments/assets/68aa1f57-699d-4895-b5cc-b93c6e8155bb)
+
 
 A **Java-based** Musical Ticket Booking Application developed using **Swing GUI in Apache NetBeans**. This application allows users to browse and book tickets for **popular London musicals** with a **modern dark-themed UI, search and filter options, and an interactive booking system**.
 
@@ -27,7 +29,6 @@ A **Java-based** Musical Ticket Booking Application developed using **Swing GUI 
 ![Image](https://github.com/user-attachments/assets/bcabedc3-8159-45a9-8835-19d7e345eb5b)
 ![Image](https://github.com/user-attachments/assets/808cb943-8156-4a6c-a917-dba8848aa849)
 ![Image](https://github.com/user-attachments/assets/8bd835f8-6698-4170-8b22-0e17c0c7bbf8)
-![Image](https://github.com/user-attachments/assets/68aa1f57-699d-4895-b5cc-b93c6e8155bb)
 
 ---
 
